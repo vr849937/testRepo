@@ -15,6 +15,8 @@ Implement a react search widget to filter the user data. Fetch the user data usi
 The component should support the following:
   
 1. Display all the user data in a table format when no search is performed
-2. Users can enter any of the field values such as id, name, location, or designation in the search and the search should be perfomed on entire data and      all the matching data should be filtered 3)There shouldn't be a search button, search results should be updated as user types.
-3. Limit the number of times a search is performed if a user is continuously typing.
-4. Style your component accordingly.
+2. Users can enter any of the field values such as id, name, location, or designation in the search and the search should be perfomed on entire data and      all the matching data should be filtered 
+3. There shouldn't be a search button, search results should be updated as user types.
+4. Limit the number of times a search is performed if a user is continuously typing.
+5. Style your component accordingly.
+  
