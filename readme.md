@@ -6,7 +6,7 @@ The component should have the following:
 1. Users can select a rating value such as 4 and the component should update accordingly.
 2. Clicking on a different rating should update the UI component accordingly.
 3. Clicking on the same rating value again should not trigger any change.
-4. Add a mock API call, that should log as Rating Updated for Image <Image URL> as <Rating Selected> in the browser console.
+4. Add a mock API call, that should log as Rating Updated for Image <>Image URL<> as <>Rating Selected<> in the browser console.
 5. Style your component accordingly.
 
 Question 2: 
