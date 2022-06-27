@@ -1,19 +1,18 @@
-Question 1: 
+Question 1:
 
-Implement a product rating component in react. Display 5 random images using https://coffee.alexflipnote.dev/random.json (api retruns json response with a link to random image). Add rating component to each images.
-
+Implement a product rating component in react. Display 5 random images using https://coffee.alexflipnote.dev/random.json (API returns JSON response with a link to the random image). Add a rating component to each image.
 The component should have the following:
-1) User can select a rating value such as 4 and the component should update accordingly.
-2) Clicking on a different rating should update the UI component accordingly.
-3) Clicking on the same rating value again should not trigger any change.
-4) Style your component accordingly.
+Users can select a rating value such as 4 and the component should update accordingly.
+Clicking on a different rating should update the UI component accordingly.
+Clicking on the same rating value again should not trigger any change.
+Add a mock api call, that should log as Rating Updated for Image <Image URL> as <Rating Selected> in the browser console.
+Style your component accordingly.
 
-Question 2:
+Question 2: 
+
 Implement a react search widget to filter the user data. Fetch the user data using https://testimonialapi.toolcarton.com/api
-
 The component should support the following:
-1) Display all the user data in a table format when no search is perfomed
-2) User can enter any of the field value such as id, name , location, designation in the search and the search should should be perfomed on entire data and all the matching data should be filtered
-3)There shouldn't be search button, search results should be updated as user types.
-4) Limit number of time a search is perfomed if user is continously typing. 
-5) Style your component accordingly.
+Display all the user data in a table format when no search is performed
+Users can enter any of the field values such as id, name, location, or designation in the search and the search should be perfomed on entire data and all the matching data should be filtered 3)There shouldn't be a search button, search results should be updated as user types.
+Limit the number of times a search is performed if a user is continuously typing.
+Style your component accordingly.
